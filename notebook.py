@@ -45,13 +45,13 @@ st.markdown('''## Documentation''')
 column1, column2, column3, column4 = st.columns(4)
 
 # First column title and document
-column1.markdown("[Descriptive manual (PDF)](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project)")
+column1.markdown("[Descriptive manual (PDF)](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project/blob/main/src/pdf/PDF%20descriptivo.pdf)")
 
 # Second column title and document
-column2.markdown("[Technical manual (PDF)](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project)")
+column2.markdown("[Technical manual (PDF)](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project/blob/main/src/pdf/PDF%20tecnico.pdf)")
 
 # Thrird column title and link
-column3.markdown("[Complete notebook](https://github.com/damicodedotpy?tab=repositories)")
+column3.markdown("[Complete notebook](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project/blob/main/notebook.ipynb)")
 
 # Fourth column title and link
 column4.markdown("[Dataset source](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)")
@@ -558,7 +558,7 @@ st.markdown('''##
             the dataset. To see the full process follow the next link.
             ''')
 
-st.markdown("[Full notebook](https://github.com/damicodedotpy?tab=repositories)")
+st.markdown("[Full notebook](https://github.com/damicodedotpy/Bootcamp-Data-Science-Final-Project/blob/main/notebook.ipynb)")
 
 # %%
 
